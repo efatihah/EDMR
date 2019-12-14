@@ -42,6 +42,7 @@
               <a href="login.php" class="btn btn-primary btn-user btn-block">Login</a>
               <hr>
               <a href="register.php" class="btn btn-primary btn-user btn-block">Sign Up</a>
+                <center><a href="loginAdmin.php">Admin Login?</a></center>
             </form>
             </div>
           </div>
