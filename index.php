@@ -42,7 +42,9 @@
               <a href="login.php" class="btn btn-primary btn-user btn-block">Login</a>
               <hr>
               <a href="register.php" class="btn btn-primary btn-user btn-block">Sign Up</a>
-                <center><a href="loginAdmin.php">Admin Login?</a></center>
+                <div class="text-center">
+                    <a class="small" href="loginAdmin.php">Admin Login?</a>
+              </div>
             </form>
             </div>
           </div>
